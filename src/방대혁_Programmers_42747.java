@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class 방대혁_programmers_42747 {
+public class 방대혁_Programmers_42747 {
     public int solution(int[] citations) {
         Arrays.sort(citations); // 오름차순
 

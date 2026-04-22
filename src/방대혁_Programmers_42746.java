@@ -1,6 +1,6 @@
 import java.util.Arrays;
 
-public class 방대혁_programmers_42746 {
+public class 방대혁_Programmers_42746 {
     public String solution(int[] numbers) {
         String[] arr = new String[numbers.length];
 
